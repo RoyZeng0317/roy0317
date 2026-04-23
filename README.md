@@ -8,7 +8,7 @@
 ## Youtube: https://www.youtube.com/@zengxingxin
 ## blogger: https://royzeng.blogspot.com/
 ## My github website: https://royzeng0317.github.io/HTML/index.html
-
+### Full Introduce at here: https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
 # 嗨，大家好。我是曾星鑫
 ## 我是一名電子工程師，我特別喜歡畫電路圖和寫程式。
 ## 我擅長HTML、C與C++、Windows C#視窗程式及Xamarin手機介面程式語言。
@@ -19,3 +19,4 @@
 ## YT: https://www.youtube.com/@zengxingxin
 ## 部落格: https://royzeng.blogspot.com/
 ## Github 網站: https://royzeng0317.github.io/HTML/index.html
+### 完整版的個人簡介在這: https://royzeng0317.github.io/HTML/Self-Website/tw-zh/index.html
