@@ -63,10 +63,10 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.co
 ### Full Introduce at here: 🔗 https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
 
 # 🎓 License
-  - 🪪 class B skill category of category Computer Maintenance
-  - 🪪 class C skill of category Computer Software Application
-  - 🪪 class C skill of Computer Maintenance
-  - 🪪 class C skill of category Industrial Electronics
+  - 🪪 Class B skill category of category Computer Maintenance
+  - 🪪 Class C skill of category Computer Software Application
+  - 🪪 Class C skill of Computer Maintenance
+  - 🪪 Class C skill of category Industrial Electronics
 
 ---
 
