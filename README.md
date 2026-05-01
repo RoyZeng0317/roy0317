@@ -1,4 +1,5 @@
 # Hey, guys. I'm Roy. This is my personal introduce.
+---
 # 01. 💻 Skills
   ## 🧠 Program Ability
   - HTML / CSS
@@ -19,22 +20,22 @@
 
 # 02. 📁 Project
 ## 📌 NAS System
-  - : HTML + Linux
+  - Technique: HTML + Linux
   - functions: Upload the File / Manage the space / Remote Access
 ## 📌 BB Call
   - Use the ESP32-S3
-  - Functions: Connect the Devices + Message
+  - Functions: Connect the Devices + Instant Message
 ## 📌 English Learning Platform
-  - : HTML + Linux (According the frontend and backend)
+  - Technique : HTML + Linux (Including the frontend and backend)
   - Functions: Improving the listening, speaking, reading and writeing.
 
 ---
 
-# 03. 🎯Goal
+# 03. 🎯 Goal
 ## 🎓 Studing Goal
   - Improving the English ability ( TOEIC -> 500)
   - Dig in the backend develop
-  -  Linux system
+  - Be familiar with the Linux system
 ## 💼 Future Gaol
   - Build up the cloud server system for own.
   - Make a business NAS resloution.
@@ -45,7 +46,7 @@
 I'm a Electronic Engineer, I pretty like to make a circuit and program.
 My best at the HTML, C & C++, C# window from, Xamarin that's program language.
 The circuit dialog software is Quartus and Kicad.
-I'm trying to learning the Raspberry Pi and website backend.
+I'm trying to learning the Raspberry Pi and website backend at now.
 
 ---
 
@@ -53,7 +54,7 @@ I'm trying to learning the Raspberry Pi and website backend.
   - Develop the technology
   - Build up the system
   - Technology product
-Do you have any problem or idal can use email to call me: boyud9.5@gmail.com
+Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.com
 ## 📱 My social link:
 ## 📸 Instagram: 🔗 https://instagram.com/roy.zeng_0317
 ## 🎥 Youtube: 🔗 https://www.youtube.com/@zengxingxin
@@ -69,16 +70,72 @@ Do you have any problem or idal can use email to call me: boyud9.5@gmail.com
 
 ---
 
-# 嗨，大家好。我是曾星鑫
-## 我是一名電子工程師，我特別喜歡畫電路圖和寫程式。
-## 我擅長HTML、C與C++、Windows C#視窗程式及Xamarin手機介面程式語言。
-## 電路軟體則是Quartus和Kicad。
-## 現在正在嘗試接觸樹梅派以及網頁後端。
-## 持有電腦硬體裝修乙級證照、電腦軟體應用丙級證照、電腦硬體裝修丙級證照及工業電子丙級證照
-## 如果你有任何問題或是想法可以聯絡我的Email: boyud9.5@gmail.com
-## 社交平台:
-## IG: https://instagram.com/roy.zeng_0317
-## YT: https://www.youtube.com/@zengxingxin
-## 部落格: https://royzeng.blogspot.com/
-## Github 網站: https://royzeng0317.github.io/HTML/index.html
-### 完整版的個人簡介在這: https://royzeng0317.github.io/HTML/Self-Website/tw-zh/index.html
+# 嗨，大家好。我是曾星鑫。這是我的自我介紹
+---
+# 01. 💻 技能
+  ## 🧠 程式能力
+  - HTML / CSS
+  - JavaScript
+  - Flutter
+  - Python
+  - Arduino / ESP32
+  ## 🖥 系統和工具
+  - Windows
+  - Linux / Raspberry
+  - Google Apps Script
+  ## ⚙️ 擅長領域
+  - 網頁開發
+  - 架設 NAS 私人雲端
+  - IoT / 硬體控制
+
+---
+
+# 02. 📁 專案
+## 📌 NAS 系統
+  - 使用: HTML + Linux
+  - 功能: 上傳檔案 / 空間管理 / 遠端存取
+## 📌 BB Call
+  - 使用 ESP32-S3
+  - 功能: 連接設備 + 即時訊息
+## 📌 英文學習平台
+  - 使用: HTML + Linux (包含端和前端)
+  - 功能: 提升聽說讀寫
+
+---
+
+# 03. 🎯 目標
+## 🎓 學習目標
+  - 提升英文能力 ( 多益 -> 500)
+  - 深入學習後端開發
+  -  Linux 系統
+## 💼 未來目標
+  - 架設自己的雲端伺服器
+  - 做商用地 NAS 解決方案.
+
+---
+
+# 04. 🌟 關於我
+我是一名電子工程師，我特別喜歡畫電路圖和寫程式。
+擅長HTML、C與C++、Windows C#視窗程式及Xamarin手機介面程式語言。
+電路軟體則是Quartus和Kicad。
+現在正在嘗試接觸樹梅派以及網頁後端。
+
+---
+
+## 🧩 興趣
+  - 開發新科技
+  - 架設系統
+  - 科技產品
+如果有任何問題或想法可以連絡我的 Email 📫: boyud9.5@gmail.com
+## 📱 我的社交平台:
+## 📸 IG: 🔗 https://instagram.com/roy.zeng_0317
+## 🎥 YT: 🔗 https://www.youtube.com/@zengxingxin
+## 🌐 部落格: 🔗 https://royzeng.blogspot.com/
+## 👥 我的 Github 網站: 🔗 https://royzeng0317.github.io/HTML/index.html
+### 完整的自我介紹: 🔗 https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
+
+# 🎓 證照
+  - 🪪 電腦硬體裝修乙級
+  - 🪪 電腦軟體應用丙級
+  - 🪪 電腦硬體裝修丙級
+  - 🪪 工業電子丙級
