@@ -132,7 +132,7 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.co
 ## 🎥 YT: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 部落格: 🔗 https://royzeng.blogspot.com/
 ## 👥 我的 Github 網站: 🔗 https://royzeng0317.github.io/HTML/index.html
-### 完整的自我介紹: 🔗 https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
+### 完整的自我介紹: 🔗 https://royzeng0317.github.io/HTML/Self-Website/tw-zh/index.html
 
 # 🎓 證照
   - 🪪 電腦硬體裝修乙級
