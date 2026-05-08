@@ -59,8 +59,8 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.co
 ## 📸 Instagram: 🔗 https://instagram.com/roy.zeng_0317
 ## 🎥 Youtube: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 blogger: 🔗 https://royzeng.blogspot.com/
-## 👥 My github website: 🔗 https://royzeng0317.github.io/HTML/index.html
-### Full Introduce at here: 🔗 https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
+## 👥 My github website: 🔗 https://royzeng0317.github.io/HTML/us-en/index.html
+### Full Introduce at here: 🔗 https://royzeng0317.github.io/HTML/Self-Website/en-us/index.html
 
 # 🎓 License
   - 🪪 Class B skill category of category Computer Maintenance
@@ -131,7 +131,7 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.co
 ## 📸 IG: 🔗 https://instagram.com/roy.zeng_0317
 ## 🎥 YT: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 部落格: 🔗 https://royzeng.blogspot.com/
-## 👥 我的 Github 網站: 🔗 https://royzeng0317.github.io/HTML/index.html
+## 👥 我的 Github 網站: 🔗 https://royzeng0317.github.io/HTML/zh-tw/index.html
 ### 完整的自我介紹: 🔗 https://royzeng0317.github.io/HTML/Self-Website/tw-zh/index.html
 
 # 🎓 證照
