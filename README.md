@@ -54,9 +54,9 @@ I'm trying to learning the Raspberry Pi and website backend at now.
   - Develop the technology
   - Build up the system
   - Technology product
-Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.com
+Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.com
 ## 📱 My social link:
-## 📸 Instagram: 🔗 https://instagram.com/roy.zeng_0317
+## 📸 Instagram: 🔗 https://instagram.com/roy.0617
 ## 🎥 Youtube: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 blogger: 🔗 https://royzeng.blogspot.com/
 ## 👥 My github website: 🔗 https://royzeng0317.github.io/HTML/us-en/index.html
@@ -126,7 +126,7 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@gmail.co
   - 開發新科技
   - 架設系統
   - 科技產品
-如果有任何問題或想法可以連絡我的 Email 📫: boyud9.5@gmail.com
+如果有任何問題或想法可以連絡我的 Email 📫: boyud9.5@yahoo.com
 ## 📱 我的社交平台:
 ## 📸 IG: 🔗 https://instagram.com/roy.zeng_0317
 ## 🎥 YT: 🔗 https://www.youtube.com/@zengxingxin
