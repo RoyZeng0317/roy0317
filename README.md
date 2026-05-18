@@ -1,7 +1,9 @@
 Language: 
 [中文](#chinese)
 [English](#english)
-<a id="english">Hey, guys. I'm Roy. This is my personal introduce.</a>
+<a id="english"></a>
+
+# Hey, guys. I'm Roy. This is my personal introduce.
 ---
 # 01. 💻 Skills
   ## 🧠 Program Ability
@@ -73,7 +75,9 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.co
 
 ---
 
-<a id="chinese">嗨，大家好。我是曾星鑫。這是我的自我介紹</a>
+<a id="chinese"></a>
+
+# 嗨，大家好。我是曾星鑫。這是我的自我介紹
 ---
 # 01. 💻 技能
   ## 🧠 程式能力
