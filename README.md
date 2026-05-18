@@ -1,4 +1,7 @@
-# Hey, guys. I'm Roy. This is my personal introduce.
+Language: 
+[中文](#chinese)
+[English](#english)
+<a id="english">Hey, guys. I'm Roy. This is my personal introduce.</a>
 ---
 # 01. 💻 Skills
   ## 🧠 Program Ability
@@ -56,7 +59,7 @@ I'm trying to learning the Raspberry Pi and website backend at now.
   - Technology product
 Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.com
 ## 📱 My social link:
-## 📸 Instagram: 🔗 https://instagram.com/roy.0617
+## 📸 Instagram: 🔗 https://instagram.com/roy.zeng_0317
 ## 🎥 Youtube: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 blogger: 🔗 https://royzeng.blogspot.com/
 ## 👥 My github website: 🔗 https://royzeng0317.github.io/HTML/en-us/index.html
@@ -70,7 +73,7 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.co
 
 ---
 
-# 嗨，大家好。我是曾星鑫。這是我的自我介紹
+<a id="chinese">嗨，大家好。我是曾星鑫。這是我的自我介紹</a>
 ---
 # 01. 💻 技能
   ## 🧠 程式能力
