@@ -65,7 +65,7 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.co
 ## 🎥 Youtube: 🔗 https://www.youtube.com/@zengxingxin
 ## 🌐 blogger: 🔗 https://royzeng.blogspot.com/
 ## 👥 My github website: 🔗 https://royzeng0317.github.io/HTML/en-us/index.html
-### Full Introduce at here: 🔗 https://royzeng0317.github.io/HTML/Self-Website/en-us/index.html
+### Full Introduce at here: 🔗 https://royzeng0317.github.io/HTML/Self-Website/us-en/index.html
 
 # 🎓 License
   - 🪪 Class B skill category of category Computer Maintenance
