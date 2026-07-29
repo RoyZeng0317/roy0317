@@ -52,7 +52,9 @@ I'm a Electronic Engineer, I pretty like to make a circuit and program.
 My best at the HTML, C & C++, C# window from, Xamarin that's program language.
 The circuit dialog software is Quartus and Kicad.
 I'm trying to learning the Raspberry Pi and website backend at now.
-
+Now I really wanna going for AI module to deep learning
+Like: CNN, Image CNN.
+Also are learning the python to take the feature.
 ---
 
 ## 🧩 Intersted
@@ -126,6 +128,9 @@ Do you have any problem or idal can use email to call me: 📫 boyud9.5@yahoo.co
 擅長HTML、C與C++、Windows C#視窗程式及Xamarin手機介面程式語言。
 電路軟體則是Quartus和Kicad。
 現在正在嘗試接觸樹梅派以及網頁後端。
+現在更多學習的方向會是 AI 模型的應用
+如: CNN、影像卷積
+學習的地方也朝向 python 發展
 
 ---
 
